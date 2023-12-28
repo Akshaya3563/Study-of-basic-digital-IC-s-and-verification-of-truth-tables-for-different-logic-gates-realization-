@@ -91,5 +91,5 @@ Timing diagram
 ![image](https://github.com/Akshaya3563/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155092474/27aecd0e-7ff4-4d89-bc42-d726be6bd9d8)
 
 
-Result:
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
