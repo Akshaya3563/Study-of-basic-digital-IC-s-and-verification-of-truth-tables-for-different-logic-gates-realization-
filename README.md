@@ -62,7 +62,7 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: AKSHAYA N
 RegisterNumber:  212223050003
-```
+
 
 module project_3(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
@@ -77,13 +77,16 @@ xnor (y7,a,b);
 endmodule
 Logic symbol & Truthtable
 RTL realization
+```
 Output:
 RTL
 ![image](https://github.com/Akshaya3563/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155092474/a6acbd90-baec-406c-8f3d-68c67aecca8f)
 Truth table
-![image](https://github.com/Akshaya3563/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155092474/4965f9d3-890e-4e6d-b684-11e877b3e9a3)
+![image](https://github.com/Akshaya3563/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155092474/b6baf061-591a-4ccb-8f0b-ea180dcb4f00)
+
 Timing diagram
-![image](https://github.com/Akshaya3563/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155092474/a3e94ee2-08d4-49f8-98bd-c05e8bc6d211)
+![image](https://github.com/Akshaya3563/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155092474/27aecd0e-7ff4-4d89-bc42-d726be6bd9d8)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
