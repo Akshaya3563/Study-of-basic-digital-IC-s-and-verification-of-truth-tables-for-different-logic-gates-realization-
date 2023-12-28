@@ -78,9 +78,11 @@ endmodule
 Logic symbol & Truthtable
 RTL realization
 ```
-Output:
+##Output:
+
 RTL
 ![image](https://github.com/Akshaya3563/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155092474/a6acbd90-baec-406c-8f3d-68c67aecca8f)
+
 Truth table
 ![image](https://github.com/Akshaya3563/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155092474/b6baf061-591a-4ccb-8f0b-ea180dcb4f00)
 
